@@ -1,2 +1,2 @@
-# portfolio
-This is my personal portfolio of websites!
+# Parth's Portfolio
+This is my personal portfolio of websites created by me!
