@@ -20,13 +20,14 @@ body{
 }
 
 .jumbotron{
-    
-   background-color: rgba(255, 255, 255, 0);
+    background-color: rgba(255, 255, 255, 0);
+   
     color: black;
     
     
 }
 .lead{
+    background-color: rgba(255, 255, 255, 0.4);
     font-size: 25px;
     font-weight: bold;
 }
@@ -49,7 +50,7 @@ nav{
 .card{
     
     
-    margin-left: 80px;
+    margin-left: 20px;
     margin-top: 30px;
 }
 .container {
@@ -62,5 +63,9 @@ footer {
     color: white;
     font-size: 15px;
     
+}
+#cards{
+    
+    align-content: center;
 }
 
