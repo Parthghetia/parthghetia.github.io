@@ -1,0 +1,71 @@
+body{
+    
+    background-image: url(ionut-necula-1087218-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Indie flower', cursive;
+    background-position: center;
+    
+     
+    
+}
+
+#main-heading{
+    
+    text-align: center;
+    color: aliceblue;
+    margin-top: 120px;
+    font-size: 100px;
+    text-shadow: 4px 4px 4px black;
+}
+
+.jumbotron{
+    background-color: rgba(255, 255, 255, 0);
+   
+    color: black;
+    
+    
+}
+.lead{
+    background-color: rgba(255, 255, 255, 0.4);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 65px;
+    color: black;
+    
+    
+}
+.display-4{
+    font-size: 80px;
+    font-weight: bolder;
+}
+nav{
+    font-weight: bold;
+    
+}
+.card{
+    
+    
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.container {
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+footer {
+    
+    color: white;
+    font-size: 15px;
+    
+}
+#cards{
+    
+    align-content: center;
+}
+

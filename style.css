@@ -1,0 +1,122 @@
+body {
+    
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    background-image: url(5.jpg);
+    color: aliceblue;
+    background-size: cover;
+    text-shadow: 2px 2px 2px #008080;
+    background-repeat: no-repeat;
+    
+    
+        
+}
+h1{
+    transition: color 1s ease;
+}
+
+h1:hover{
+    
+    color: #61ffb6;
+}
+p{
+    transition: color 2s ease;
+}
+
+p:hover{
+    
+    color:aquamarine;
+    
+}
+#logo{
+    
+    width: 250px;
+    height: 200px;
+    float: left;
+    clear: both;
+    transition: all 1s;
+    
+}
+
+#logo:hover{
+    
+    transform: scale(1.1);
+}
+
+h1{
+    border-bottom: 2px solid white;
+    width: 750px;
+    border-bottom-style: double;
+        
+}
+ul{
+  list-style-type: none;
+text-decoration-line: underline;
+    align-content: center;
+    
+  
+    
+}
+li{
+    
+    display: inline;
+    margin: 15px;
+    
+}
+a{
+    color: white;
+}
+.container {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.item{
+    margin: 10px;
+    border-radius: 1%;
+    width: 280px;
+    height: 170px;
+    transition: all 1s;
+   
+}
+.item:hover{
+    
+    transform: scale(1.1);
+}
+#logoFooter{
+    
+    width: 100px;
+    height: 70px;
+    transition: all 1s;
+}
+#logoFooter:hover{
+    
+    transform: scale(1.1);
+}
+
+footer{
+    transition: color 1.5s ease;
+    margin: 10px;
+}
+footer:hover{
+    
+    color: aqua;
+}
+iframe{
+    
+    
+    -webkit-box-shadow: 3px 3px 5px 6px #021A32;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    3px 3px 5px 6px #021A32;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         3px 3px 5px 6px #021A32;
+    
+    transition: all 1s;
+ 
+}
+
+iframe:hover{
+    
+    transform: scale(1.2);
+}
+

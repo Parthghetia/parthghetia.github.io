@@ -1,0 +1,33 @@
+body{
+    
+    font-family: 'Pacifico', cursive;
+    background-image: url(steven-lu-726518-unsplash.jpg);
+    background-size: cover;
+    color: #61ffb6;
+    text-align:  center;
+    text-shadow: 2px 2px black;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+img{
+    
+    margin-right: 50px;
+    float: left;
+}
+.jumbotron {
+    
+    background-color: rgba(0, 0, 0, 0);
+}
+.btn-primary{
+    
+    color: #61ffb6;
+    background-color: black;
+    border-color: aqua;
+}
+.btn-primary:hover{
+    
+    background-color: #61ffb6;
+    color: black;
+    text-shadow: 0px 0px black;
+}
