@@ -1,0 +1,63 @@
+body{
+
+    background-image: url("bootstrap.jpg");
+    background-size: cover;
+    color:#52d5a0;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    margin: 20px;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+p{
+    margin: 10px;
+
+}
+img{
+	align-content: center;
+}
+#mc-embedded-subscribe {
+    
+    margin:10px;
+    background-color: black;
+    color: #52d5a0;
+    border-color: #52d5a0;
+}
+
+#mc-embedded-subscribe:hover{
+    
+    background-color: #52d5a0;
+    color: black;
+}
+
+.card {
+    background-color: black;
+    border-color: #52d5a0;
+    margin:40px;
+    
+}
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.btn btn-light{
+    background-color: black;
+    color: #52d5a0;
+    border-color: #52d5a0;
+}
+.btn btn-light:hover{
+    
+    background-color: #52d5a0;
+    color: black;
+}
+#footer {
+
+    width: 40px;
+    height: 25px;
+    margin: 20px;
+   
+}
