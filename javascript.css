@@ -34,8 +34,7 @@ h3 {
 	background-color: black;
 }
 .ol{
-	display: flex;
-	justify-content: center;
+	margin: 20px;
 }
 ol{
 
