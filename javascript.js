@@ -4,14 +4,14 @@ var body = document.querySelector('body');
 var input1 = document.getElementById('input1');
 var button = document.getElementById('button');
 var deleteChild = document.getElementById('deleteChild');
-var ul = document.querySelector('ul');
+var ol = document.querySelector('ol');
 function backgroundPicker(){
   body.style.background = "linear-gradient(to right, " + color1.value + ", " + color2.value + ")";
 }
 function createLiElement(){
   var li = document.createElement('li');
   li.appendChild(document.createTextNode(input1.value));
-  ul.appendChild(li);
+  ol.appendChild(li);
   input1.value = "";
 }
 
