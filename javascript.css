@@ -33,7 +33,10 @@ h3 {
 	padding: 0;
 	background-color: black;
 }
-
+.ol{
+	display: flex;
+	justify-content: center;
+}
 ol{
 
 	display: list-item;
