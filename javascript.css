@@ -48,4 +48,5 @@ li{
 	font-weight: bold;
 	display: list-item;
 	list-style-type: decimal;
+	margin-right: 20px;
 }
